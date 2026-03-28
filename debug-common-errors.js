@@ -59,4 +59,4 @@ function isPrime(num) {
 
 console.log(isPrime(7)); // Expected true but gets false
 
-// True and false were swapped
+// True and false were swapped  
